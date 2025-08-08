@@ -1,8 +1,13 @@
 <h2>Alan Daiki</h2>
-💻 Desenvolvedor Full-Stack apaixonado por tecnologia e resolução de problemas. Experiência sólida com linguagens Java, Python, C++, C# e JavaScript, além de conhecimento prático em Docker e banco de dados MySQL.
+Estagiário na área de programação, formando em Ciência da Computação no Centro Universitário FEI. 
+Desenvolvo projetos que integram sistemas distribuídos, inteligência artificial e desenvolvimento web.
+Busco sempre manter o código limpo, escalável e bem documentado.
 
-🔧 Atualmente, desenvolvendo projetos que integram sistemas distribuídos, inteligência artificial e web development. Sempre em busca de escrever código limpo, escalável e bem documentado.
+<br>
 
+Fiz parte da monitoria de programação com objetivo de aprofundar meu conhecimento em programação.
+Também fiz uma iniciação científica que enolve Inteligência artificial, mais específicamente, a classificação automática de terreno de proteção ambiental com segmentação semântica.
+Foi um projeto de grande importância para meu desenvolvimento acadêmico e foi o o projeto que despertou o meu interesse na área de inteligência artificial.
 
 
 <!--
