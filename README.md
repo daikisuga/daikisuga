@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2>Alan Daiki</h2>
+💻 Desenvolvedor Full-Stack apaixonado por tecnologia e resolução de problemas. Experiência sólida com linguagens Java, Python, C++, C# e JavaScript, além de conhecimento prático em Docker e banco de dados MySQL.
+
+🔧 Atualmente, desenvolvendo projetos que integram sistemas distribuídos, inteligência artificial e web development. Sempre em busca de escrever código limpo, escalável e bem documentado.
+
+
 
 <!--
 **daikisuga/daikisuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
