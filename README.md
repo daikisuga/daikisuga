@@ -1,5 +1,5 @@
 <h2>Alan Daiki</h2>
-Estagiário na área de programação, formando em Ciência da Computação no Centro Universitário FEI. 
+Programador, formando em Ciência da Computação no Centro Universitário FEI. 
 Desenvolvo projetos que integram sistemas distribuídos, inteligência artificial e desenvolvimento web.
 Busco sempre manter o código limpo, escalável e bem documentado.
 
