@@ -27,9 +27,5 @@
 
 <br><br>
 
-![Alan Daiki Suga GitHub stats](https://github-readme-stats.vercel.app/api?username=daikisuga&show_icons=true&theme=radical)
-
-<br><br>
-
 Feel free to reach out if you want to discuss **collaborations, software projects, Machine Learning, data-related challenges**, or anything tech-related.  
 I'm always open to learning and building cool things together 🚀
